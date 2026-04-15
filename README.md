@@ -59,12 +59,6 @@ The analysis uses a dataset of flight records with variables including:
 - Temporal variables (month, day of week, scheduled times)
 - Delay causes (weather, security, airline, late aircraft, air system)
 
-## Contributors
-
-- Student 1 (TPXXXXX): Objective 1
-- Student 2 (TPXXXXX): Objective 2
-- Student 3 (TPXXXXX): Objective 3
-- Student 4 (TPXXXXX): Objective 4
 
 ## License
 
